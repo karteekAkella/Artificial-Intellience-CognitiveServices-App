@@ -1,0 +1,9 @@
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\bin\Debug\ImageScanningAPI.exe.config
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\bin\Debug\ImageScanningAPI.exe
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\bin\Debug\ImageScanningAPI.pdb
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\obj\Debug\ImageScanningAPI.csprojResolveAssemblyReference.cache
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\obj\Debug\ImageScanningAPI.csproj.CoreCompileInputs.cache
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\obj\Debug\ImageScanningAPI.exe
+C:\Users\v-kaakel\Documents\AzureAICourse\ImageScanningAPI\ImageScanningAPI\obj\Debug\ImageScanningAPI.pdb
